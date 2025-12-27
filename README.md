@@ -1,6 +1,7 @@
 ---
 license: mit
 ---
+Full project repo : https://huggingface.co/devikand/Monai-projects
 
 # 🧠 MONAI Deep Learning Medical Imaging Projects
 
