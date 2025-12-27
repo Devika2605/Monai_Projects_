@@ -101,11 +101,11 @@ Show Image
 
 📁 Project Structure
 brain-tumor-segmentation/
-├── app.py                    # Streamlit web app
-├── kagglenotebook.ipynb      # Training script
-├── requirements.txt          # Dependencies
-├── segresnet_complete.pth    # Trained model      
-└── README.md                 # This file
+├── app.py                    # Streamlit web app<br>
+├── kagglenotebook.ipynb      # Training script<br>
+├── requirements.txt          # Dependencies<br>
+├── segresnet_complete.pth    # Trained model   <br>   
+└── README.md                 # This file<br>
 
 🎯 Usage Examples
 1. Train Your Own Model
