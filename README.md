@@ -62,11 +62,7 @@ retinal-model/
 Monai-projects/
 │<br>
 ├── brats-model/<br>
-│ └── Readme.md<br>
-│<br>
 ├── retinal-model/<br>
-│ └── README.md<br>
-│<br>
 └── README.md  (This main file)
 
 yaml
