@@ -59,7 +59,7 @@ retinal-model/
 ---
 
 ## 🏗️ Project Structure
-Monai-projects/
+Monai-projects/<br>
 │<br>
 ├── brats-model/<br>
 ├── retinal-model/<br>
